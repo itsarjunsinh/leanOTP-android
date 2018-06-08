@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="title_activity_enter_otp">EnterOtpActivity</string>
+    <string name="title_activity_success">SuccessActivity</string>
+</resources>
